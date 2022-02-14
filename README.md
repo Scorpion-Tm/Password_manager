@@ -12,9 +12,17 @@
 </ul>
 </div>
 
-# Install
-<div class="desc" style="background: red;">
-<p>git clone https://github.com/anon-sec/Password_manager.git</p>
-<p>cd Password_manager</p>
-<p>pip install -r requirments.txt</p>
-<p>python3 Main.py</p>
+
+## Install
+```bash
+git clone https://github.com/anon-sec/Password_manager.git
+cd Password_manager
+pip3 install -r requirements.txt
+python3 Main.py 
+```
+
+
+### Contact us
+- Youtube Channel : https://www.youtube.com/channel/UCU-xQ_Z1_HkaZSm-Z9jOs9g
+- Channel Telegram : https://t.me/ANONYMOU52021
+
